@@ -1,0 +1,30 @@
+Requirement 1:  
+
+The seller details and cars list objects are in Master Detail Relationship. 
+If the seller object records contain child, then the deletion of the parent record should not be allowed. 
+
+
+Code:  
+
+          public class SellerDetailsHandler { 
+
+              public static void PreventDeletion(List<Seller_Details__c>sellerlist) {
+                  List<Car_List__c> carlist = [Select  Seller__c                                //list to get the sellers associated with cars record
+                                               from Car_List__c         
+                                               where Seller__c in: Trigger.oldMap.keyset()]; 	
+                  Set<ID> Idset = new Set<ID>();               //New set to add the IDs. 
+
+                  For(Car_List__c cars : carlist)              //Iterating the query list 
+                  { 
+                      Idset.add(cars.Seller__c);               //Add all the ID to the new set 
+                  } 
+
+                  For(Seller_Details__c sell:sellerlist)       //Iterating all the old Seller records 
+                  { 
+          if(Idset.contains (sell.Id))                         //Checking if the seller ID is equal to the ID in cars(Child)record 
+                      { 
+                    sell.adderror('The seller record is associated with cars record, so you are not allowed to delete');  
+                      } 
+                  } 
+              } 
+
