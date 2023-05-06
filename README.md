@@ -1,10 +1,10 @@
-#🚗 Tesla-ShowRoom 
+🚗 **Tesla-ShowRoom** 
 
 👉 I created a fictional showroom as an operating firm in which their sales and service processes are done through salesforce.  
 
 👉 I attempted to develop my own business circumstances and worked on the solutions for those circumstances through the salesforce out of the box features.
 
-#📑 CASE STUDY ABOUT THE BUSINESS:
+📑 **CASE STUDY ABOUT THE BUSINESS**:
 
 👉 The Tesla Showroom deals with second-hand cars. Showroom sales & service. They provide service warranty for those products brought from them.
 
@@ -13,7 +13,7 @@
 👉 The Dealers are the Banks or NBFC who recover the vehicle from the people who haven’t repayed their loan. Since their collateral is the vehicle. 
 
 
-# 💼 MAJOR BUSINESS REQUIREMENTS : 
+ 💼 **MAJOR BUSINESS REQUIREMENTS** : 
 
 👉 The details of the vehicles and their source need to be tracked. The details of the person who sells the vehicle should also be stored in the org.  
 
