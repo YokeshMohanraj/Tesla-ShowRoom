@@ -2,7 +2,7 @@
 
 👉  I created a fictional showroom as an operating firm in which their sales and service processes are done through salesforce.  
 
-👉 I attempted to develop my own business circumstances and worked on the solutions for those circumstances through the salesforce out of the box features.
+👉 I attempted to develop my own business circumstances and worked on the solutions for those circumstances through the salesforce out of the box features and programmatic approaches .
 
 📑  **CASE STUDY ABOUT THE BUSINESS**:
 
