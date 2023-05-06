@@ -1,10 +1,10 @@
 🚗 **Tesla-ShowRoom** 
 
-👉 I created a fictional showroom as an operating firm in which their sales and service processes are done through salesforce.  
+👉  I created a fictional showroom as an operating firm in which their sales and service processes are done through salesforce.  
 
 👉 I attempted to develop my own business circumstances and worked on the solutions for those circumstances through the salesforce out of the box features.
 
-📑 **CASE STUDY ABOUT THE BUSINESS**:
+📑  **CASE STUDY ABOUT THE BUSINESS**:
 
 👉 The Tesla Showroom deals with second-hand cars. Showroom sales & service. They provide service warranty for those products brought from them.
 
