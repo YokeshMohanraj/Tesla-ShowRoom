@@ -33,3 +33,5 @@ They might visit the showroom with the vehicle, or They might raise a Service or
 So that once they receive the request from the Service engineers might go to the customer place and pick the vehicle. 
 
  👉 The cases should be assigned properly. Then the details of the problem or issue should be tracked and once it is completed, the customer should be notified. 
+ 
+ 👉👉!!! Only some of the Major Requriements are mentioned Here, Other than this there are requirements which are mentioned inside the document. Worked on both with Configuration requirements and Programattic requirements.  !!!👈👈
