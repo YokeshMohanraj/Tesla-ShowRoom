@@ -11,7 +11,7 @@
 
 👉 The Cars are bought from individuals and as well as from Dealers.  
 
-👉 The Dealers are the Banks or NBFC who recover the vehicle from the people who haven’t repayed their loan. Since their collateral is the vehicle. 
+👉 The Dealers are the Banks or NBFC who recover the vehicle from the people who haven’t repayed their loan. Since their collateral is the vehicle, So this showroom buys those vehicles and sell it to the customers  as a second Hand vehicle. 
 
 
  💼 **MAJOR BUSINESS REQUIREMENTS** : 
