@@ -2,7 +2,8 @@
 
 👉  I created a fictional showroom as an operating firm in which their sales and service processes are done through salesforce.  
 
-👉 I attempted to develop my own business requirements and worked on the solutions for those through the salesforce.
+👉 I attempted to develop my own business requirements and worked on the solutions for those. 
+
 
 📑  **CASE STUDY ABOUT THE BUSINESS**:
 
