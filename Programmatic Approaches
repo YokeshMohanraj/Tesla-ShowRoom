@@ -12,24 +12,20 @@ Code:
                                                where Seller__c in: Trigger.oldMap.keyset()]; 	
                   Set<ID> Idset = new Set<ID>();               //New set to add the IDs. 
 
-                  For(Car_List__c cars : carlist)              //Iterating the query list 
-                  { 
+                  For(Car_List__c cars : carlist)       {          //Iterating the query list 
+                
                       Idset.add(cars.Seller__c);               //Add all the ID to the new set 
                   
                   } //End of for loop
 
-                  For(Seller_Details__c sell:sellerlist)       //Iterating all the old Seller records 
-                  { 
-                    if(Idset.contains (sell.Id))               //Checking if the seller ID is equal to the ID in cars(Child)record 
-                      { 
+                  For(Seller_Details__c sell:sellerlist)  {       //Iterating all the old Seller records 
+                 
+                    if(Idset.contains (sell.Id))       {          //Checking if the seller ID is equal to the ID in cars(Child)record 
+                  
                     sell.adderror('The seller record is associated with cars record, so you are not allowed to delete');  
-                      }                                        
+                     
+                     }  //End of the IF condition                                        
                   } //End of the for loop
               } //End of the method
           }//End of the class
-          
-          
-          
-          
-          
           
