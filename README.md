@@ -6,9 +6,9 @@
 
 # CASE STUDY ABOUT THE BUSINESS 🧑‍💼:
 
-👉 The Tesla Showroom deals with second-hand cars. Showroom sales & service. They provide service warranty for those products brought from them.
+👉 The Tesla Showroom deals with second-hand cars sales & service. They provide service warranty for the products brought from them.
 
-👉 The Cars are bought from individuals and as well as from Dealers.  
+👉 The Cars are bought from individuals and as well as from Dealers by the showroom and being sold to their customers.  
 
 👉 The Dealers are the Banks or NBFC who recover the vehicle from the people who haven’t repayed their loan. Since their collateral is the vehicle. 
 
@@ -30,6 +30,6 @@ If not closed, the customer details should be kept up in the database with the r
 👉 After Purchasing the Product if the Customer has any issues or Problem.
 They might visit the showroom with the vehicle, or They might raise a Service or Repair Request. The Request might be from website or Mail,
                                                                                          the requests recieved should be assigned properly to the service engineers. 
-So that once they receive the request from the Service engineers might go to the customer place and pick the vehicle. 
+So that once they receive the request , the Service engineers might go to the customer place and pick the vehicle. 
 
  👉 The cases should be assigned properly. Then the details of the problem or issue should be tracked and once it is completed, the customer should be notified. 
