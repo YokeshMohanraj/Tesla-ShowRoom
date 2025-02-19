@@ -7,11 +7,11 @@
 
 📑  **CASE STUDY ABOUT THE BUSINESS**:
 
-👉 The Tesla Showroom deals with second-hand cars. Showroom sales & service. They provide service warranty for those products brought from them.
+👉 The Tesla Showroom deals with used cars sales & service. They provide service warranty for those products brought from them.
 
 👉 The Cars are bought from individuals and as well as from Dealers.  
 
-👉 The Dealers are the Banks or NBFC who recover the vehicle from the people who haven’t repayed their loan. Since their collateral is the vehicle, So this showroom buys those vehicles and sell it to the customers  as a second Hand vehicle. 
+👉 The Dealers are the Banks or NBFC who recover the vehicle from the people who haven’t repayed their Bike loans.Since their collateral is the vehicle, So this showroom buys those vehicles and sell it to the customers. 
 
 
  💼 **MAJOR BUSINESS REQUIREMENTS** : 
